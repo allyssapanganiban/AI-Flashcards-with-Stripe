@@ -1,4 +1,4 @@
-
+import { Typography, Container, Box, CircularProgress } from '@mui/material'
 
 const ResultPage = () => {
     const router = useRouter()
